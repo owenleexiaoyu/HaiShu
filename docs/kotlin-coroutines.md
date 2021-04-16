@@ -33,3 +33,13 @@ A: 挂起的非阻塞式指的是它能用看起来阻塞的代码写出非阻�
 [Kotlin协程Coroutines入门到实战：（三）Coroutines+Retrofit+ViewModel+LiveData实现MVVM客户端架构](https://blog.csdn.net/NJP_NJP/article/details/103524778)
 
 > 【推荐】或许我们很少去思考，为什么我们需要回调？回调的目的到底是什么？有没有其他方式来代替实现这个目的呢？作者从异步回调的本质说起，引出了协程的优势，再来个 MVVM 实战把协程的使用吃透，非常优秀的三系列文。
+
+[Kotlin Coroutines 101 - Android Conference Talks](https://www.youtube.com/watch?v=ZTDXo0-SKuU&t=8s)
+
+> 【推荐】Google 工程师讲解协程的用法，介绍了协程解决什么问题、如何创建和取消协程、如何捕获异常、如何测试协程等知识，非常全面。
+
+## 练习
+
+[Use Kotlin Coroutines in your Android App](https://developer.android.com/codelabs/kotlin-coroutines)
+
+> 【推荐】Google 官方出品的协程 Codelab，其中也包含很多知识点，边学边练。
