@@ -1,7 +1,7 @@
 # AndroidLand
 打造 Android 完整的知识体系
 
-获得更佳的阅读体验，请跳转：[AndroidLand](https://lixiaoyu.cc/AndroidLand/)
+获得更佳的阅读体验，请跳转：[AndroidLand](https://lixiaoyu.life/AndroidLand/)
 
 ---
 
