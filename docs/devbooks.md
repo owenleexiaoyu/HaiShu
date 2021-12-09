@@ -1,6 +1,7 @@
 # DevBooks
 
-开发相关电子书籍(PDF)，目前主要是Android开发，其次包含：Kotlin、Java、网络等
+开发相关电子书籍(PDF)，目前主要是Android开发，其次包含：Kotlin、Java、网络等。
+本页面 forked from [coolspan/DevBooks](https://github.com/coolspan/DevBooks)
 
 # Kotlin 
 
