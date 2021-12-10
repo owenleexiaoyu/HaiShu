@@ -2,4 +2,5 @@
 * [Kotlin](kotlin.md)
 * [Kotlin 协程](kotlin-coroutines.md)
 * [开源库](open-source.md)
+    * [图片加载框架](opensource/image-loaders.md)
 * [开发书籍](devbooks.md)
