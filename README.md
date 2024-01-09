@@ -1,7 +1,8 @@
-# AndroidLand
-打造 Android 完整的知识体系
+# Haishu | 海树
 
-获得更佳的阅读体验，请跳转：[AndroidLand](https://lixiaoyu.life/AndroidLand/)
+山花对海树，做一山花易，成为海树难。打造我自己完整的知识体系。
+
+获得更佳的阅读体验，请跳转：[HaiShu](https://lixiaoyu.life/HaiShu/)
 
 ---
 
