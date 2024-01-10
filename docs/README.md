@@ -1,3 +1,3 @@
-# AndroidLand
+# HaiShu
 
-努力打造完整的 Android 知识体系
+努力打造自己的知识地图，记录自己的技术成长。

@@ -1,8 +1,8 @@
 <!-- 背景图片 -->
 ![logo](_image/android.svg)
 
-# AndroidLand
+# HaiShu
 
-> 努力打造 Android 完整的知识体系
+> 努力打造自己的知识地图，记录自己的技术成长。
 
-[GitHub](https://github.com/owenleexiaoyu/AndroidLand)
+[GitHub](https://github.com/owenleexiaoyu/HaiShu)
