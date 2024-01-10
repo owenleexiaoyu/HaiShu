@@ -1,3 +1,5 @@
 # 开篇词
 
-这个项目是受 [AndroidKnowledgeSystem](https://feelschaotic.gitbook.io/android-knowledge-system/)、 [Awesome-Android-Notebook](https://github.com/JsonChao/Awesome-Android-Notebook) 等构建 Android 知识体系的开源项目的启发，笔者也试图搭建适合自己的 Android 知识体系，整理知识点，收集优质资料，如果有可能，后续也希望能将此项目开源，帮助更多的 Android 开发者。
+《笠翁对韵》中提到：山花对海树。做一山花易，成为海树难。
+
+我希望通过本项目构建自己的知识地图。一步一个脚印，走出自己的技术成长之路。
