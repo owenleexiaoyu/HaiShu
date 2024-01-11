@@ -5,3 +5,4 @@
 * [Android](android.md)
 	* Android 第一行代码
 		* [Android 启程](AndroidFirstLine/01_android_start.md)
+		* [应用界面 Activity](AndroidFirstLine/02_activity.md)
